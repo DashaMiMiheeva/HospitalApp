@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "398899532914",
+    "firebase_url": "https://androidhospital-83aad-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "androidhospital-83aad",
+    "storage_bucket": "androidhospital-83aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398899532914:android:82701f8a3863b834591eeb",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMnEgA33bQL41mh7tAwO9FkaKUsb7TY4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
